@@ -32,7 +32,7 @@
     "major": "node Makefile.js major"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.5.4",
     "http-status": "^1.1.0",
     "jsonwebtoken": "^8.2.1",
     "merge-options": "^1.0.1",
