@@ -58,7 +58,7 @@
     "nyc": "^11.4.1",
     "shelljs": "^0.8.1",
     "shelljs-nodecli": "^0.1.1",
-    "sinon": "^7.2.4"
+    "sinon": "^7.3.2"
   },
   "files": [
     "config",
